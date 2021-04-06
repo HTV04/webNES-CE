@@ -40,7 +40,4 @@ Original Developers:
 * Bogdan Vitoc [@bogidon](https://github.com/bogidon)
 * Evan Klein [@elklein96](https://github.com/elklein96)
 
-### Props to the Creator of jsNES
-* Ben Firshman [@bfirsh](https://github.com/bfirsh)
-
-This app was built during the spring PennApps 2014 hackathon by Conrad, Jared, Bogdan, Evan and was a finalist (top 10).
+Special thanks to jsNES creator Ben Firshman [@bfirsh](https://github.com/bfirsh).
